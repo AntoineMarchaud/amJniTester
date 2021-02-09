@@ -1,4 +1,4 @@
-# amJniTester (made by Antoine Marchaud)
+# amJniTester
 
 Just some JNI simple examples :
 - C++ code calling Kotlin examples
